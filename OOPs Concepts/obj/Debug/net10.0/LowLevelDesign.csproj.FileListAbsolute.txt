@@ -1,0 +1,14 @@
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/OOPs Concepts/bin/Debug/net10.0/LowLevelDesign
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/OOPs concepts/bin/Debug/net10.0/LowLevelDesign.deps.json
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/OOPs concepts/bin/Debug/net10.0/LowLevelDesign.runtimeconfig.json
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/OOPs Concepts/bin/Debug/net10.0/LowLevelDesign.dll
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/OOPs Concepts/bin/Debug/net10.0/LowLevelDesign.pdb
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/OOPs Concepts/obj/Debug/net10.0/LowLevelDesign.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/OOPs Concepts/obj/Debug/net10.0/LowLevelDesign.AssemblyInfoInputs.cache
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/OOPs Concepts/obj/Debug/net10.0/LowLevelDesign.AssemblyInfo.cs
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/OOPs Concepts/obj/Debug/net10.0/LowLevelDesign.csproj.CoreCompileInputs.cache
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/OOPs Concepts/obj/Debug/net10.0/LowLevelDesign.dll
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/OOPs Concepts/obj/Debug/net10.0/refint/LowLevelDesign.dll
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/OOPs Concepts/obj/Debug/net10.0/LowLevelDesign.pdb
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/OOPs concepts/obj/Debug/net10.0/LowLevelDesign.genruntimeconfig.cache
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/OOPs concepts/obj/Debug/net10.0/ref/LowLevelDesign.dll
