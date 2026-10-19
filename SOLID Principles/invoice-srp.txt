@@ -1,0 +1,4 @@
+Customer: Yuvraj
+Amount: ₮1,000.00
+Tax: ₮150.00
+Total: ₮1,150.00
