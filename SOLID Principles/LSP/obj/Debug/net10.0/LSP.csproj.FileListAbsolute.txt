@@ -1,0 +1,15 @@
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/SOLID Principles/LSP/bin/Debug/net10.0/LSP
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/SOLID Principles/LSP/bin/Debug/net10.0/LSP.deps.json
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/SOLID Principles/LSP/bin/Debug/net10.0/LSP.runtimeconfig.json
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/SOLID Principles/LSP/bin/Debug/net10.0/LSP.dll
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/SOLID Principles/LSP/bin/Debug/net10.0/LSP.pdb
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/SOLID Principles/LSP/obj/Debug/net10.0/LSP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/SOLID Principles/LSP/obj/Debug/net10.0/LSP.AssemblyInfoInputs.cache
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/SOLID Principles/LSP/obj/Debug/net10.0/LSP.AssemblyInfo.cs
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/SOLID Principles/LSP/obj/Debug/net10.0/LSP.csproj.CoreCompileInputs.cache
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/SOLID Principles/LSP/obj/Debug/net10.0/LSP.sourcelink.json
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/SOLID Principles/LSP/obj/Debug/net10.0/LSP.dll
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/SOLID Principles/LSP/obj/Debug/net10.0/refint/LSP.dll
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/SOLID Principles/LSP/obj/Debug/net10.0/LSP.pdb
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/SOLID Principles/LSP/obj/Debug/net10.0/LSP.genruntimeconfig.cache
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/SOLID Principles/LSP/obj/Debug/net10.0/ref/LSP.dll
