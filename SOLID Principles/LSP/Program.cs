@@ -15,5 +15,18 @@ public static class Program
 
         Console.WriteLine("\n=== Following Method Rules ===");
         MethodRulesFollowingDemo.Run();
+
+        Console.WriteLine("\n=== Violating Property Rules ===");
+        PropertyRulesViolationDemo.Run();
+
+        Console.WriteLine("\n=== Following Property Rules ===");
+        PropertyRulesFollowingDemo.Run();
+
+        Console.WriteLine("\n=== Violating Signature Rules ===");
+        SignatureRulesViolationDemo.Run();
+
+        Console.WriteLine("\n=== Following Signature Rules ===");
+        SignatureRulesFollowingDemo.Run();
+
     }
 }
