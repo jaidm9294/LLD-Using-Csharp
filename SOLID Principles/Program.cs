@@ -24,3 +24,13 @@ IspViolationDemo.Run();
 
 Console.WriteLine("\n=== Following ISP ===");
 IspFollowingDemo.Run();
+
+
+Console.WriteLine("\n========== DEPENDENCY INVERSION PRINCIPLE ==========");
+
+Console.WriteLine("\n--- DIP Violation ---");
+DipViolationDemo.Run();
+
+Console.WriteLine("\n--- Following DIP ---");
+DipFollowingDemo.Run();
+

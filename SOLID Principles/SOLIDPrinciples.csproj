@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+<ItemGroup>
+  <!-- Keep the nested LSP console project separate. -->
+  <Compile Remove="LSP/**/*.cs" />
+</ItemGroup>
+
+
 </Project>
