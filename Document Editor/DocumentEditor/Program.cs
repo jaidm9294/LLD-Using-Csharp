@@ -1,4 +1,6 @@
-﻿namespace DocumentEditor;
+﻿using DocumentEditor.Models;
+using DocumentEditor.Services;
+namespace DocumentEditor;
 
 class Program
 {
@@ -10,6 +12,8 @@ class Program
         string title = Console.ReadLine() ?? "Untitled";
 
         Document document = new Document(title);
+
+        DocumentDisplayService displayService = new DocumentDisplayService();
 
         bool isRunning = true;
 
@@ -34,7 +38,7 @@ class Program
                     break;
 
                 case "2":
-                    document.Display();
+                    displayService.Display(document);
                     break;
 
                 case "3":
