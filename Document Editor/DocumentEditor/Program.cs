@@ -15,6 +15,8 @@ class Program
 
         DocumentDisplayService displayService = new DocumentDisplayService();
 
+        DocumentSaveService saveService = new DocumentSaveService();
+
         bool isRunning = true;
 
         while (isRunning)
@@ -22,7 +24,8 @@ class Program
             Console.WriteLine("\n==== MENU ====");
             Console.WriteLine("1. Add Text");
             Console.WriteLine("2. Display Document");
-            Console.WriteLine("3. Exit");
+            Console.WriteLine("3. Save Document");
+            Console.WriteLine("4. Exit");
             Console.WriteLine("Enter your choice: ");
 
             string choice = Console.ReadLine() ?? string.Empty;
@@ -42,6 +45,10 @@ class Program
                     break;
 
                 case "3":
+                    saveService.Save(document);
+                    break;
+
+                case "4":
                     isRunning = false;
                     Console.WriteLine("Exiting Document Editor...");
                     break;
