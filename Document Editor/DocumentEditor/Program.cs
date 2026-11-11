@@ -1,4 +1,5 @@
-﻿using DocumentEditor.Models;
+﻿using DocumentEditor.Interfaces;
+using DocumentEditor.Models;
 using DocumentEditor.Repositories;
 using DocumentEditor.Services;
 namespace DocumentEditor;
@@ -17,6 +18,8 @@ class Program
         DocumentDisplayService displayService = new DocumentDisplayService();
 
         FileDocumentRepository documentRepository = new FileDocumentRepository("Documents");
+
+        // IDocumentRepository repository = new InMemoryDocumentRepository();
 
         DocumentSaveService saveService = new DocumentSaveService(documentRepository);
 

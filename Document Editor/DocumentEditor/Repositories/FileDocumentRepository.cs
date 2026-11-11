@@ -21,7 +21,23 @@ public class FileDocumentRepository : IDocumentRepository
         string filePath = Path.Combine(_directoryPath, fileName);
 
         File.WriteAllText(filePath, document.Content);  //saving the document
+    }
 
-        Console.WriteLine($"Document saved successfully at: {filePath}");
+    public Document? GetByTitle(string title)
+    {
+        string fileName = $"{title}.txt";
+        string filePath = Path.Combine(_directoryPath, fileName);
+
+        if (!File.Exists(filePath))
+        {
+            return null;
+        }
+
+        string content = File.ReadAllText(filePath);
+
+        Document document = new Document(title);
+        document.AddText(content);
+
+        return document;
     }
 }

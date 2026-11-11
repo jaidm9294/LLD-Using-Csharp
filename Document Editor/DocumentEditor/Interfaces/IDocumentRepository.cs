@@ -6,4 +6,6 @@ namespace DocumentEditor.Interfaces;
 public interface IDocumentRepository
 {
     void Save(Document document);
+
+    Document? GetByTitle(string title);
 }
