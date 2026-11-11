@@ -1,20 +1,18 @@
+using DocumentEditor.Interfaces;
 using DocumentEditor.Models;
 namespace DocumentEditor.Services;
 
 public class DocumentSaveService
 {
+    // Service depends on an abstraction rather than concrete implementation
+    private readonly IDocumentRepository _documentRepository;
+
+    public DocumentSaveService(IDocumentRepository documentRepository)
+    {
+        _documentRepository = documentRepository;
+    }
     public void Save(Document document)
     {
-        string directoryPath = "Documents";
-
-        Directory.CreateDirectory(directoryPath);  // Creates the Documents directory if doesn't already exist.
-
-        string fileName = $"{document.Title}.txt";  //Genrates the filename
-
-        string filePath = Path.Combine(directoryPath, fileName);  //Constructs the file path, combines the directory and filename using the appropriate path separator for the OS
-
-        File.WriteAllText(filePath, document.Content);
-
-        Console.WriteLine($"Document saved successfully at: {filePath}");
+        _documentRepository.Save(document);
     }
 }

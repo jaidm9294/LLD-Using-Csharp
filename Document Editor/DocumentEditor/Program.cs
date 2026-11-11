@@ -1,4 +1,5 @@
 ﻿using DocumentEditor.Models;
+using DocumentEditor.Repositories;
 using DocumentEditor.Services;
 namespace DocumentEditor;
 
@@ -15,7 +16,9 @@ class Program
 
         DocumentDisplayService displayService = new DocumentDisplayService();
 
-        DocumentSaveService saveService = new DocumentSaveService();
+        FileDocumentRepository documentRepository = new FileDocumentRepository("Documents");
+
+        DocumentSaveService saveService = new DocumentSaveService(documentRepository);
 
         bool isRunning = true;
 
@@ -46,6 +49,7 @@ class Program
 
                 case "3":
                     saveService.Save(document);
+                    Console.WriteLine("Document Saved Successfully.");
                     break;
 
                 case "4":
