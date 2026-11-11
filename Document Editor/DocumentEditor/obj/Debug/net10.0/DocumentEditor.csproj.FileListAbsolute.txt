@@ -1,0 +1,15 @@
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/Document Editor/DocumentEditor/bin/Debug/net10.0/DocumentEditor
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/Document Editor/DocumentEditor/bin/Debug/net10.0/DocumentEditor.deps.json
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/Document Editor/DocumentEditor/bin/Debug/net10.0/DocumentEditor.runtimeconfig.json
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/Document Editor/DocumentEditor/bin/Debug/net10.0/DocumentEditor.dll
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/Document Editor/DocumentEditor/bin/Debug/net10.0/DocumentEditor.pdb
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/Document Editor/DocumentEditor/obj/Debug/net10.0/DocumentEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/Document Editor/DocumentEditor/obj/Debug/net10.0/DocumentEditor.AssemblyInfoInputs.cache
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/Document Editor/DocumentEditor/obj/Debug/net10.0/DocumentEditor.AssemblyInfo.cs
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/Document Editor/DocumentEditor/obj/Debug/net10.0/DocumentEditor.csproj.CoreCompileInputs.cache
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/Document Editor/DocumentEditor/obj/Debug/net10.0/DocumentEditor.sourcelink.json
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/Document Editor/DocumentEditor/obj/Debug/net10.0/DocumentEditor.dll
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/Document Editor/DocumentEditor/obj/Debug/net10.0/refint/DocumentEditor.dll
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/Document Editor/DocumentEditor/obj/Debug/net10.0/DocumentEditor.pdb
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/Document Editor/DocumentEditor/obj/Debug/net10.0/DocumentEditor.genruntimeconfig.cache
+/Users/jaidmulla/Documents/LLD/LLD-Using-Csharp/Document Editor/DocumentEditor/obj/Debug/net10.0/ref/DocumentEditor.dll
